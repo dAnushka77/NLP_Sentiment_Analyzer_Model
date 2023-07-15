@@ -10,12 +10,13 @@ To find out what makes a video game worth buying according to gamers, you need t
 6) Try out other methods of sentiment analysis. Explore how people evaluate the video game they purchased by classifying the reviews as positive, negative, and neutral.
 
 Techniques and methods used -
---> Sampling from imbalanced datasets using the imbalanced-learn package.
---> Enquiring about the sentiment value of the reviews with the dictionary-based sentiment analysis tools, which are part of NLTK, a natural language processing toolkit, used in Python.
---> Finding out if your algorithm did a good job. Data evaluation with scikit-learn in Python.
---> Analyzing the reviews with a state-of-the-art deep learning technique, namely with the DistilBERT model. To build this model, you will need to run Pytorch, transformers, and the simpletransformers packages.
---> Evaluating your model and creating descriptive statistics in Python with scikit-learn library before reporting your results to your boss.
---> Visualizing findings about preferable and non-preferable words related to video games.
+
+* Sampling from imbalanced datasets using the imbalanced-learn package.
+* Enquiring about the sentiment value of the reviews with the dictionary-based sentiment analysis tools, which are part of NLTK, a natural language processing toolkit, used in Python.
+* Finding out if your algorithm did a good job. Data evaluation with scikit-learn in Python.
+* Analyzing the reviews with a state-of-the-art deep learning technique, namely with the DistilBERT model. To build this model, you will need to run Pytorch, transformers, and the simpletransformers packages.
+* Evaluating your model and creating descriptive statistics in Python with scikit-learn library before reporting your results to your boss.
+* Visualizing findings about preferable and non-preferable words related to video games.
 
 * The project is made up of five steps, which are built on each other:
 
