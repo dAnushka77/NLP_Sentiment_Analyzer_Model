@@ -15,7 +15,7 @@ Techniques and methods used -
 - Enquiring about the sentiment value of the reviews with the dictionary-based sentiment analysis tools, which are part of NLTK, a natural language processing toolkit, used in Python.
 - Finding out if your algorithm did a good job. Data evaluation with scikit-learn in Python.
 - Analyzing the reviews with a state-of-the-art deep learning technique, namely with the DistilBERT model. To build this model, you will need to run Pytorch, transformers, and the simpletransformers packages.
-- Evaluating your model and creating descriptive statistics in Python with scikit-learn library before reporting your results to your boss.
+- Evaluating your model and creating descriptive statistics in Python with scikit-learn library.
 - Visualizing findings about preferable and non-preferable words related to video games.
 
 * The project is made up of five steps, which are built on each other:
